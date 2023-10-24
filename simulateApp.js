@@ -10,7 +10,6 @@ ReactDOM.render(
 );
 
 
-//its visible that the "message" prop change a bit of color when done in a different way like in
-//parent.js when being called. It seems that it still work the same although has different color.
-//
-//its literally inside the html box on jsx syntax after 'import react'
+// all comes to using the message 'prop' but for everything To make this work, you need to render the 
+//ParentComponent in your application. This typically happens in your application's entry 
+//point (e.g., index.js or App.js). jsx, being specifically in this case the simulateApp.js file.
